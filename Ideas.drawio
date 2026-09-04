@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="HtbZHn1LSQfPYyvaBVDH">
-    <mxGraphModel dx="1184" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,75 @@
         </mxCell>
         <mxCell id="nV5ekS6hgRPHdBKqXmPx-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=16;" value="Una nota hecha en la segunda edición del libreo 6/II menciona cambios hechos en el párrafo 23 acerca de &quot;Alienación y libreación&quot;, notando que se debió a que aún no habían profundizado suficientemente en el pensamiendo de los post-hegelianos. Considero que estos son conceptos importantes a tomar en cuenta y estudiar." vertex="1">
           <mxGeometry height="108.83" width="520" x="730" y="161.17" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="Ontología" vertex="1">
+          <mxGeometry height="30" width="124" x="840" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1;fontColor=light-dark(#000000,#FFD966);" value="Parte de la Metafísica" vertex="1">
+          <mxGeometry height="46" width="110" x="790" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1;fontColor=light-dark(#000000,#FFD966);" value="Estudia el ser y lo que existe" vertex="1">
+          <mxGeometry height="46" width="135" x="925" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1;fontColor=light-dark(#000000,#FFD966);" value="Piensa sobre la realidad" vertex="1">
+          <mxGeometry height="46" width="135" x="1086" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;" value="Su naturaleza" vertex="1">
+          <mxGeometry height="20" width="124" x="1120" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;" value="Su estructura" vertex="1">
+          <mxGeometry height="20" width="124" x="1120" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;" value="Sus categorías" vertex="1">
+          <mxGeometry height="20" width="124" x="1120" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-9" edge="1" parent="1" source="nV5ekS6hgRPHdBKqXmPx-6" style="endArrow=none;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="nV5ekS6hgRPHdBKqXmPx-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1100" y="540" as="sourcePoint" />
+            <mxPoint x="1150" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-10" edge="1" parent="1" source="nV5ekS6hgRPHdBKqXmPx-7" style="endArrow=none;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;" target="nV5ekS6hgRPHdBKqXmPx-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1100" y="540" as="sourcePoint" />
+            <mxPoint x="1150" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-11" edge="1" parent="1" source="nV5ekS6hgRPHdBKqXmPx-8" style="endArrow=none;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;" target="nV5ekS6hgRPHdBKqXmPx-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1100" y="540" as="sourcePoint" />
+            <mxPoint x="1150" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;" value="&lt;font face=&quot;Inter, system-ui, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;¿qué es existir?, ¿qué tipos de cosas hay?, ¿qué relación hay entre lo material y lo inmaterial?&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="124" x="930.5" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-13" edge="1" parent="1" source="nV5ekS6hgRPHdBKqXmPx-12" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="nV5ekS6hgRPHdBKqXmPx-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="980" y="520" as="sourcePoint" />
+            <mxPoint x="1030" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1;fontColor=light-dark(#000000,#FFD966);" value="Ontos + logos" vertex="1">
+          <mxGeometry height="46" width="124" x="580" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;" value="&lt;span style=&quot;font-family: Inter, system-ui, sans-serif; font-size: 14px;&quot;&gt;(ente, ser)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="71" x="550" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;" value="&lt;span style=&quot;font-family: Inter, system-ui, sans-serif; font-size: 14px;&quot;&gt;(estudio, discurso)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="124" x="630" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-18" edge="1" parent="1" source="nV5ekS6hgRPHdBKqXmPx-16" style="endArrow=none;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="nV5ekS6hgRPHdBKqXmPx-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="680" y="530" as="sourcePoint" />
+            <mxPoint x="730" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-19" edge="1" parent="1" source="nV5ekS6hgRPHdBKqXmPx-15" style="endArrow=none;html=1;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;" target="nV5ekS6hgRPHdBKqXmPx-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="480" as="sourcePoint" />
+            <mxPoint x="740" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
