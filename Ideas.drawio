@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="HtbZHn1LSQfPYyvaBVDH">
-    <mxGraphModel dx="1829" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1118" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nV5ekS6hgRPHdBKqXmPx-20" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;whiteSpace=wrap;autosizeText=0;" value="&lt;ul style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; line-height: inherit; margin-block: 0.75rem; margin-inline: 0px; padding-inline-start: 1.5rem; quotes: &amp;quot;“&amp;quot; &amp;quot;”&amp;quot; &amp;quot;‘&amp;quot; &amp;quot;’&amp;quot;; scrollbar-width: thin; scrollbar-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0); font-family: Inter, system-ui, sans-serif;&quot;&gt;&lt;li style=&quot;box-sizing: inherit; quotes: &amp;quot;“&amp;quot; &amp;quot;”&amp;quot; &amp;quot;‘&amp;quot; &amp;quot;’&amp;quot;; scrollbar-width: thin; scrollbar-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0); margin-block: 0px 0.125rem; margin-inline: 0px; line-height: 1.5;&quot;&gt;¿Qué existe realmente: solo materia, o también ideas, almas, números?&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; quotes: &amp;quot;“&amp;quot; &amp;quot;”&amp;quot; &amp;quot;‘&amp;quot; &amp;quot;’&amp;quot;; scrollbar-width: thin; scrollbar-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0); margin-block: 0.125rem; margin-inline: 0px; line-height: 1.5;&quot;&gt;¿Qué significa &quot;ser&quot;? Aristóteles ya distinguía múltiples sentidos del verbo ser (ser algo, ser tal, ser esto o aquello).&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; quotes: &amp;quot;“&amp;quot; &amp;quot;”&amp;quot; &amp;quot;‘&amp;quot; &amp;quot;’&amp;quot;; scrollbar-width: thin; scrollbar-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0); margin-block: 0.125rem 0px; margin-inline: 0px; line-height: 1.5;&quot;&gt;La discusión entre &lt;span style=&quot;box-sizing: inherit; font-weight: 700; quotes: &amp;quot;“&amp;quot; &amp;quot;”&amp;quot; &amp;quot;‘&amp;quot; &amp;quot;’&amp;quot;; scrollbar-width: thin; scrollbar-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);&quot;&gt;realismo&lt;/span&gt; (la realidad existe independiente de nosotros) y &lt;span style=&quot;box-sizing: inherit; font-weight: 700; quotes: &amp;quot;“&amp;quot; &amp;quot;”&amp;quot; &amp;quot;‘&amp;quot; &amp;quot;’&amp;quot;; scrollbar-width: thin; scrollbar-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);&quot;&gt;idealismo&lt;/span&gt; (lo mental/consciente es fundamental) es esencialmente ontológica.&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="320" width="280" x="805" y="220" as="geometry" />
+          <mxGeometry height="250" width="325" x="806" y="220" as="geometry" />
         </mxCell>
         <mxCell id="nV5ekS6hgRPHdBKqXmPx-21" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;labelBackgroundColor=none;whiteSpace=wrap;autosizeText=0;" value="&lt;span style=&quot;font-family: Inter, system-ui, sans-serif; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Puede ser cualquier clasificación de las cosas que existen&lt;/span&gt;" vertex="1">
           <mxGeometry height="100" width="135" x="307.5" y="210" as="geometry" />
@@ -106,8 +106,8 @@
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nV5ekS6hgRPHdBKqXmPx-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1;fontColor=light-dark(#000000,#FFD966);" value="Preguntas principales" vertex="1">
-          <mxGeometry height="46" width="110" x="820" y="144" as="geometry" />
+        <mxCell id="nV5ekS6hgRPHdBKqXmPx-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1;fontColor=light-dark(#000000,#FFD966);" value="Sus preguntas principales" vertex="1">
+          <mxGeometry height="46" width="135" x="820" y="144" as="geometry" />
         </mxCell>
         <mxCell id="nV5ekS6hgRPHdBKqXmPx-26" edge="1" parent="1" source="nV5ekS6hgRPHdBKqXmPx-20" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" target="nV5ekS6hgRPHdBKqXmPx-23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -144,8 +144,8 @@
         <mxCell id="nV5ekS6hgRPHdBKqXmPx-35" edge="1" parent="1" source="nV5ekS6hgRPHdBKqXmPx-23" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=0;" target="nV5ekS6hgRPHdBKqXmPx-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="875" y="110" />
-              <mxPoint x="537.5" y="110" />
+              <mxPoint x="887.52" y="110.04" />
+              <mxPoint x="537.52" y="110.04" />
             </Array>
             <mxPoint x="490" y="330" as="sourcePoint" />
             <mxPoint x="540" y="280" as="targetPoint" />
